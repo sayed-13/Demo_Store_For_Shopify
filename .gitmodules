@@ -1,0 +1,6 @@
+[submodule "src/common"]
+	path = src/common
+	url = git@github.com:EchoLogyx/echo-ab-common.git
+[submodule "services"]
+	path = services
+	url = git@github.com:EchoLogyx/echo-services.git
